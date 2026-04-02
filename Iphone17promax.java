@@ -1,0 +1,5 @@
+class iphone 17 pro{
+public static void main(string []iphone){
+System.out.println("iPhone 17 Pro 256 GB: 15.93 cm (6.3″) Display with Promotion up to 120Hz, A19 Pro Chip, Breakthrough Battery Life, Pro Fusion Camera System with Center Stage Front Camera;");
+}
+}

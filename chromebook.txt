@@ -1,0 +1,5 @@
+class HpChromeBook{
+public static void main(String[]chromebook){
+System.out.println("HP Chromebook  Intel Celeron HD, GB LPDDR GB eMMC, Intel UHD Graphics, Thin & Light, Dual Speakers, BrightView Display ");
+}
+}
